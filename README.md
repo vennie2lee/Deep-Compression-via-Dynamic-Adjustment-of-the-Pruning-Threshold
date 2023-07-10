@@ -2,7 +2,6 @@
 
 
 A PyTorch implementation of the paper "Dynamic-Adjustment-of-the-Pruning-Threshold-in-Deep-Compression".
-
 This code is bulit on [Deep-Compression-Pytorch](https://github.com/mightydeveloper/Deep-Compression-PyTorch.git).
 
 ### Dataset
