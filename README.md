@@ -14,3 +14,4 @@ python VC_pruning.py
 
 ### Note
 DC_pruning and VC_pruning mean 'DenseNet with CIFAR-10', 'VGG16 with CIFAR-10'
+
