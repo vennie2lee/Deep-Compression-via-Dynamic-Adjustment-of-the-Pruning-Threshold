@@ -1,6 +1,14 @@
-# Deep-Compression-PyTorch
-IMCOMPLETE!! Not recommended for use.
+# Dynamic-Adjustment-of-the-Pruning-Threshold-in-Deep-Compression
 
-VC_pruning means 'VGG16 with Cifar10'
+A PyTorch implementation of the paper "Dynamic-Adjustment-of-the-Pruning-Threshold-in-Deep-Compression"
 
-Use : python VC_pruning.py
+### Note
+  DC_pruning and VC_pruning mean 'DenseNet with CIFAR-10', 'VGG16 with CIFAR-10'
+
+### Dataset
+I use CIFAR-10 dataset as a training set and test on MNIST dataset.
+
+### Training
+```
+python VC_pruning.py
+``` 
