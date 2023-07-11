@@ -14,7 +14,7 @@ Recently, convolutional neural networks (CNNs) have been widely utilized due to 
 I use CIFAR-10 dataset as a training set and test on MNIST dataset.
 
 ### Usage
-Run
+Run:
 ```
 python VC_pruning.py
 ```
